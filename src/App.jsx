@@ -5,7 +5,7 @@ import Packages from './pages/Packages'
 import Login from './pages/Login'
 import Header from './components/Header'
 import Footer from './components/Footer'
-// test
+// testing
 export default function App() {
   return (
     <div className="site-bg flex flex-col min-h-screen">
