@@ -16,7 +16,7 @@ export default function Header(){
         <nav className="flex items-center gap-4">
           <Link to="/" className="px-3 py-2 rounded hover:bg-white/30">Home</Link>
           <Link to="/packages" className="px-3 py-2 rounded hover:bg-white/30">Packages</Link>
-          <Link to="/login" className="px-3 py-2 rounded bg-white text-purple-700 font-semibold">Login</Link>
+          <Link to="/login" className="px-3 py-2 rounded bg-white text-purple-700 font-bold">Login</Link>
         </nav>
       </div>
     </header>
